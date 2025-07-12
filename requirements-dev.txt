@@ -1,0 +1,11 @@
+# File Auto-Copy Tool
+# 文件自动复制工具
+
+pyinstaller
+setuptools
+wheel
+
+# Optional dependencies for development
+black
+flake8
+pytest
